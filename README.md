@@ -2,11 +2,6 @@
 
 마인드 맵
 
-![우상제-마인드맵](https://user-images.githubusercontent.com/57715672/139250711-56a46d49-eb83-4645-8478-46041e4d2f74.jpg)
-리디자인 로고 스케치
-
-![우상제-리디자인 로고 스케치](https://user-images.githubusercontent.com/57715672/139250725-26a5a13f-145c-46d4-96bc-26373946e447.jpg)
-리디자인 로고
 
 ![우상제-리디자인 로고](https://user-images.githubusercontent.com/57715672/139250745-1325a06a-3382-476f-9227-296fc9928742.jpg)
 개인 로고
